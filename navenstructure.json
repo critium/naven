@@ -1,0 +1,11 @@
+root : {
+    pom.json
+    lib
+    target
+    node_modules
+}
+
+nvn : {
+    node_modules  
+}
+
